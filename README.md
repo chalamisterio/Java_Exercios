@@ -14,3 +14,25 @@ Identifique os casos onde não existe uma raiz real (interior da raiz quadrada n
 existe uma única raiz real (interior da raiz quadrada igual a zero) e quando existem duas
 raízes reais (interior da raiz quadrada maior que zero). Apresente em tela a(s) raiz(es)
 da função.
+
+Exercício 1.3. (NumeroPrimo)
+Escreva um programa que leia um numero inteiro positivo e diga se ele é um número
+primo. O programa deverá ser executado para quantos números o usuário desejar. O
+usuário pode finalizar a execução do algoritmo informando −1.
+
+Exercício 1.4. (MediaTurma)
+Na disciplina de programação, são realizadas três provas ao longo do semestre. Escreva um
+algoritmo que leia as três notas de cada um dos alunos (o número de alunos na disciplina é
+informado no início da execução do algoritmo). Considerando a média aritmética simples
+das três notas, o algoritmo deve informar a quantidade de alunos aprovados, de alunos em
+exame e de alunos reprovados. Para aprovar a disciplina a média deve ser maior ou igual
+a 7. Uma média maior ou igual a 3 e menor que 7 deixa o aluno em exame, enquanto
+uma média menor que 3 implica na reprovação do aluno.
+
+Exercício 1.5. (Calculos)
+Crie um programa que leia um valor inteiro positivo. Crie três métodos para realização
+de cálculos sobre o valor informado. O primeiro método recebe o valor como parâmetro
+e retorna seu fatorial. O segundo método recebe o valor como parâmetro e calcula a
+soma de todos os números naturais menores ou iguais ao valor informado. O terceiro
+método recebe o valor como parâmetro e imprime todos os números ímpares entre o valor
+informado e 50.

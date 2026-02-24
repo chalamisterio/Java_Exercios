@@ -36,3 +36,12 @@ e retorna seu fatorial. O segundo método recebe o valor como parâmetro e calcu
 soma de todos os números naturais menores ou iguais ao valor informado. O terceiro
 método recebe o valor como parâmetro e imprime todos os números ímpares entre o valor
 informado e 50.
+
+Exercício 1.6. (BeneficioFuncionarios)
+Uma empresa pretende ofertar um benefício aos funcionários carentes. Funcionários com
+pelo menos 10 anos de serviço e pelo menos 30 anos de idade têm o direito de receber
+o benefício. O valor pago a eles é calculado em função do salário e da quantidade de
+dependentes (tabela abaixo). Escreva um algoritmo que leia o tempo de serviço do
+funcionário, sua idade, seu salário e a quantidade de dependentes. Escreva um método
+que determina se o funcionário tem direito ao benefício, um segundo método para calcular
+o valor do benefício e um terceiro método que determina o novo valor do seu salário.

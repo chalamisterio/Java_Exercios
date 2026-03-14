@@ -45,3 +45,11 @@ dependentes (tabela abaixo). Escreva um algoritmo que leia o tempo de serviço d
 funcionário, sua idade, seu salário e a quantidade de dependentes. Escreva um método
 que determina se o funcionário tem direito ao benefício, um segundo método para calcular
 o valor do benefício e um terceiro método que determina o novo valor do seu salário.
+
+Exercício 1.8. (TrocaVetores)
+Faça um programa que leia os valores de um vetor de n posições (n deverá ser um número
+par e será informado no início da execução do algoritmo). Após isso, troque os elementos
+das primeiras n/2 posições com os elementos das últimas n/2 posições, apresentando o
+resultado em tela. Finalmente, apresente a soma dos números pares e o produto dos
+números ímpares armazenados no vetor.
+
